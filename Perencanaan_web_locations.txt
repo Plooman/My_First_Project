@@ -3,4 +3,4 @@ Steps for make a web location
 -- Menampilkan peta yang sudah ada di database ke web
 -- Menampilkan mark yang ada dari database ke tampilan web
 -- Ada fitur untuk mendeteksi dimana user berada menggunakan icon orang
--- Ada fitur logout
+-- Ada fitur logoutss
